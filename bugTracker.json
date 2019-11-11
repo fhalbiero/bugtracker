@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "resolute-bloom-258413",
+  "private_key_id": "95febcac11917fa87c441727c7e23452383ceed7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCX1WsDbesDpn9j\ng+OpErZq8MQLUzOJJmt7ZGDEmmDcsVc8N0hm3Loq05xx4flGFWQZVWttXkGJ+pLu\nlfle0QeCkpB0dN+ZKde0gsNgLLDO9qkFMqTBg7jqJBTS9sh1vd6AyLvoyMCgOHfH\nrXpQZ3nbqxup8i1tyxEgmeV2ochiY3c1FZLbvetmy9wE0vZmqMsgr9/qWiercKAp\nwASio4y1NnAF73J49mUbj2D9PV4+ATaPMfxfpiI6f0Tg7TNyGWCTlmNViKXloPtK\n182Mg/21JULsJTZHjRtrPLmmrgNkTot1ZwZ9+HEBu1pJ141K5o4oPU3XDAc/hndh\nq1dCTKNFAgMBAAECggEADErLK98nfmdpm0sncH3zFkPRP1B4VONvIrF88xXDf0J9\nO0MHgcpfaQ2yNfcTOQUM0k870AIoQK0wXY/3PSGjn8LRXphCrPH6BGNswVnE47CM\n/P59X6xUGWKb6/tuPbgGLjtyGRW9oIsJyXjmNOG3uBzJc9AHNQMSaycCcIEHCc3/\nI+XqN1PYZj1IEYaaaZmitHjHUfBwkzlf7juy78pNTuU7cyEtG7/DuUCW1tO2yd7d\nOe8T4H1zTMysp34B7WLQYMqpQsnRQEaUw/4Iqux2FEX8bFfHykBbrJAudK6BS9eP\nAGnx4VAgRChSSS5p2pQtYeeMVQcn2P2769ZtLwnLAQKBgQDWtnxVjCdwMviTvOp+\nYcK+TgCn+0C86gLtGvJ+HDGDuPZfbffF/9VgMyH2WPW2ryA3OmpHWk/SzqxLP2Oz\nsy0zNCxYriSMoodprX6FvDHQLov7PRJ64XVh7C9M5Fs7mOTbCgVAYzrBQjtZmYnS\nzqb5BktslQiq0X2HerzNLIctAQKBgQC1B5/njDXc1+a2SX32AD1/7dyeicZXuazB\nDpqEfLYuza//yQsSFAc4E2P9zo5Vo20DTCD3QIwz+rE2+OWr7GLYp0rF/DKnLwMV\nIJXKL6G6qAtquKcnPCgb4YM5pTHQpMi2S5BeZEXhC58aLSbZhbEUU5W8amkgFjFT\ngoH6FgOCRQKBgQC/QH0vlk/q2PwiXLxjJqFY8hITjvHzVF6W5NHrEyHnuvF5v3Jc\no61kqyctT8BOoV+I0jeopwFDPWSrAiPFBWzVlzuJIlTcEEmeEDQK279jOJLnj1bO\nrdTpDIB1dVLumxn/IcXbvIexbVWAUgs6A2knmDvG1FmMDl5KN0HFYExoAQKBgGEB\n7/dVlDt+2pwOL9iWcl5OaW3vaIDz95YQrE6Ywcu83zZTVoJehyvOgEOu32kWxUEC\nF5xHU5o7GaHaqMCDUMjGhPQpXD9omt9EceBBvAnZKR0MTE5jFx8xrm9Cjbo/w2qk\nfX2HgEbDQoP1dB8WXDkHPXMVFrZiDhaxFdOc3k59AoGBAI2SCpI20Er+Cw1Cy9HL\nKlDcqPHWmbqw3J0dHl13MTVS1FO0KNX/Fxq4iSGvdTzeCZxuCNT5JnPiXiZGxu0G\ny5JRfKWVLg22FIcdCcJorS7pHSFtg/y+eLDYiX5+SzsWyZFRoVVe0nVnD9gTsb6l\n9xemcEOod36FJJyGuwanEh1X\n-----END PRIVATE KEY-----\n",
+  "client_email": "bugtracker@resolute-bloom-258413.iam.gserviceaccount.com",
+  "client_id": "108610917779041599698",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bugtracker%40resolute-bloom-258413.iam.gserviceaccount.com"
+}
