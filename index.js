@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const bodyParser = require('body-parser');
-const { promisify} = require('util');
+const { promisify } = require('util');
 const sgMail = require('@sendgrid/mail');
 
 const GoogleSpreadsheet = require('google-spreadsheet');
